@@ -23,6 +23,10 @@ function App() {
               <img src={profile} alt="profile button" onClick={profileBtnClick}/>
             </div>
         </div>
+
+        <div className = "SearchBox">
+
+        </div>
     </div>
   );
 }
