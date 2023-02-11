@@ -181,6 +181,62 @@
 .Search #SearchBtn:hover{
   background-color: #ff9900;
 }
+.HighDemand{
+  width: 100%;
+  height: 400px;
+  margin-top: 8%;
+  display: block;
+}
+.TitleDiv{
+  width: 100%;
+  height: 70px;
+}
+.HighDemand #Title{
+  float: left;
+  margin-left: 6%;
+}
+.SlideBox{
+  width: 100%;
+  height: 300px;
+  background-color: #c7c7c7;
+  padding-left: 5%;
+}
+.FooterArea{
+  width: 100%;
+  height: 400px;
+  background-color: #ab02e3;
+  padding-top: 5%;
+  color: aliceblue;
+}
+.FooterArea h2:hover{
+  cursor: pointer;
+  color: #ff9900;
+}
+.FooterArea h1:hover{
+  cursor: pointer;
+  color: #ff9900;
+}
+.LeftBox{
+  width: 40%;
+  height: 100%;
+  float: left;
+  text-align: left;
+  padding-left: 5%;
+}
+.RightBox{
+  width: 50%;
+  height: 100%;
+  float: left;
+  text-align: left;
+  padding-left: 5%;
+}
+.RightBox img{
+  height: 50px;
+  width: 50px;
+}
+.RightBox #SocialMediaBtn{
+  padding-left: 6%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
